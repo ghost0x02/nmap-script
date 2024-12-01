@@ -70,4 +70,4 @@ if islemno in ["1", "2", "3", "4", "5"]:
         print(Fore.RED + "Hata: Geçersiz IP adresi girdiniz. Lütfen doğru bir IP adresi girin." + Style.RESET_ALL)
 
 else:
-    print(Fore.RED + "Hata: Geçersiz işlem numarası seçtiniz. Lütfen 1-4 arasında bir seçenek girin." + Style.RESET_ALL)
+    print(Fore.RED + "Hata: Geçersiz işlem numarası seçtiniz. Lütfen 1-5 arasında bir seçenek girin." + Style.RESET_ALL)
