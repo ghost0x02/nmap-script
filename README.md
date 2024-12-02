@@ -1,8 +1,8 @@
 <a href="https://hizliresim.com/428wmze"><img src="https://i.hizliresim.com/428wmze.jpg" alt="Resim Yükle"></a>
 
 ```
-git clone https://www.github.com/ghost0x02/waff
-cd waff
+git clone https://www.github.com/ghost0x02/nmap-script
+cd nmap-script
 python3 nmap-script.py
 
 ```
